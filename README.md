@@ -1,5 +1,5 @@
 # OIBSIP_Task8
-OIBSIP_cybersecurityinternship_Task3_Firewall
+OIBSIP_cybersecurityinternship_Task8_wireshark
 🔐 Objective:
 Capture and analyze network traffic using Wireshark
 🛠 Tools Used:
